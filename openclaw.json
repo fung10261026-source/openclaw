@@ -1,0 +1,6 @@
+{
+  "channels": ["telegram"],
+  "telegram": {
+    "whitelist": [8332945185]
+  }
+}
