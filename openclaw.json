@@ -1,6 +1,8 @@
 {
-  "channels": ["telegram"],
-  "telegram": {
-    "whitelist": [8332945185]
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "whitelist": [8332945185]
+    }
   }
 }
